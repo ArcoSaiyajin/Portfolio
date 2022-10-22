@@ -1,2 +1,3 @@
 # Portfolio 
-Projekty jak ze skoly tak i doma
+Projekty jak ze skoly tak i doma  
+[Kotlin](https://github.com/nguyean/skola)
