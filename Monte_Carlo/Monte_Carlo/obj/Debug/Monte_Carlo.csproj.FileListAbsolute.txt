@@ -1,0 +1,11 @@
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\bin\Debug\Monte_Carlo.exe.config
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\bin\Debug\Monte_Carlo.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\bin\Debug\Monte_Carlo.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.Form1.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.Properties.Resources.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.csproj.GenerateResource.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.csproj.AssemblyReference.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Monte_Carlo\Monte_Carlo\obj\Debug\Monte_Carlo.csproj.SuggestedBindingRedirects.cache

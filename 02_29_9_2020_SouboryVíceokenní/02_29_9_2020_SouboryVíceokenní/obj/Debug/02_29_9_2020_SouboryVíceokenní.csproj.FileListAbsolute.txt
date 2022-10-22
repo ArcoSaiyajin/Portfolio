@@ -1,0 +1,56 @@
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe.config
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csprojAssemblyReference.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form1.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form2.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Properties.Resources.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.GenerateResource.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.CoreCompileInputs.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe.config
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csprojAssemblyReference.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form1.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form2.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Properties.Resources.resources
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.GenerateResource.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.CoreCompileInputs.cache
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\nguyean\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programovani_2020\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe.config
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csprojAssemblyReference.cache
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form1.resources
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form2.resources
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Properties.Resources.resources
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.GenerateResource.cache
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe.config
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csprojAssemblyReference.cache
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form1.resources
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form2.resources
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Properties.Resources.resources
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.GenerateResource.cache
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe.config
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\bin\Debug\02_29_9_2020_SouboryVíceokenní.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.AssemblyReference.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form1.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Form2.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\_02_29_9_2020_SouboryVíceokenní.Properties.Resources.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.GenerateResource.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\02_29_9_2020_SouboryVíceokenní\02_29_9_2020_SouboryVíceokenní\obj\Debug\02_29_9_2020_SouboryVíceokenní.pdb

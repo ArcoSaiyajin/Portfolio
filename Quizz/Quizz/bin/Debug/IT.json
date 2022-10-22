@@ -1,0 +1,15 @@
+{
+    "Questions":  [
+        "Co je to PSU?", 
+        "Co je to MB?",
+        "ROM",
+        "C# je",
+        "Co je to ARP?"
+    ],
+
+    "A1" : ["grafika", "procesor", "napájecí zdroj", "základní deska"],
+            "A2" : ["MegaByte", "Megabit", "Mebibit", "MebiByte"],
+            "A3" : ["je volatilní", "není volatilní", "je to program", "není to program"],
+            "A4" : ["odborný termín", "hardware", "software", "programovací jazyk"],
+            "A5" : ["protokol", "dokument", "síť", "počítač"]
+}

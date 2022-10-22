@@ -1,0 +1,22 @@
+{
+    "Questions":  [
+        "Co znamená slovo crude", 
+        "The first US President was",
+        "Our capital city is?",
+        "Where is Manchester?",
+        "Minulý čas slova run"
+    ],
+   
+    
+
+    
+       
+            "A1" : ["naštvaný", "hladový", "zmatený", "surový"],
+            "A2" : ["Donald Trump", "George Washington", "Abraham Lincoln", "Richard Nixon"],
+            "A3" : ["Prague", "Brno", "Ostrava", "Opava"],
+            "A4" : ["Netherlands", "Brazil", "United Kingdom", "Massachusetts"],
+            "A5" : ["ron", "run", "ren", "ran"]
+        
+        
+    
+}

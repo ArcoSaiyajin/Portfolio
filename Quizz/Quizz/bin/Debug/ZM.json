@@ -1,0 +1,15 @@
+{
+    "Questions":  [
+        "Jaký z těchto států nepatří do jižní Evropy?", 
+        "Které z těchto měst je v Itálii",
+        "Jaký jazyk převládá v Irsku?",
+        "Jaký státní útvar je Švédsko?",
+        "Kterých z těchto organizací je Finsko členem?"
+    ],
+
+    "A1" : ["Itálie", "Monako", "Francie", "Řecko"],
+            "A2" : ["Verona", "Valencie", "Marseille", "Madrid"],
+            "A3" : ["Rétorománština", "Irština", "Skotština", "Angličtina"],
+            "A4" : ["republika", "monarchie", "federativní republika", "nedemokratické"],
+            "A5" : ["EU", "NATO", "EU i NATO", "EFTA"]
+}

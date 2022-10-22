@@ -1,0 +1,12 @@
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\bin\Debug\Numericke_metody.exe.config
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\bin\Debug\Numericke_metody.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\bin\Debug\Numericke_metody.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.Form1.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.Properties.Resources.resources
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.csproj.GenerateResource.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.csproj.ResolveComReference.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.csproj.AssemblyReference.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Numericke_metody\Numericke_metody\obj\Debug\Numericke_metody.csproj.SuggestedBindingRedirects.cache

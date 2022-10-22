@@ -1,0 +1,8 @@
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\bin\Debug\Pseudo_gen_cisel.exe.config
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\bin\Debug\Pseudo_gen_cisel.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\bin\Debug\Pseudo_gen_cisel.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\obj\Debug\Pseudo_gen_cisel.csproj.CoreCompileInputs.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\obj\Debug\Pseudo_gen_cisel.exe
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\obj\Debug\Pseudo_gen_cisel.pdb
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\obj\Debug\Pseudo_gen_cisel.csproj.AssemblyReference.cache
+C:\Users\Tony5\Desktop\PC\SKOLA\DURDILOVA\Pseudo_gen_cisel\Pseudo_gen_cisel\obj\Debug\Pseudo_gen_cisel.csproj.SuggestedBindingRedirects.cache
